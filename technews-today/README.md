@@ -1,5 +1,3 @@
-
-
 📰 TechNews Today - Portal de Tecnologia
 Este projeto foi desenvolvido no âmbito da formação do SENAI, focando na criação de um portal de notícias de tecnologia moderno, responsivo e estruturado com HTML5 semântico e estilizado com CSS3.
 
